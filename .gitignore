@@ -1,0 +1,33 @@
+# Text Editor files #
+###################
+*.pyc
+
+# Other files #
+###################
+*.json
+.coverage
+.env
+
+# Folders #
+###################
+ttt_env/
+.vscode
+include/
+lib/
+.cache/
+__pycache__/
+local/
+bin/
+migrations/
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
